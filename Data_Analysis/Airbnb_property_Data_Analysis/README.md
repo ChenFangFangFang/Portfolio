@@ -1,4 +1,4 @@
-### Airbnb Data Analysis and Property Advisory
+# Airbnb Data Analysis and Property Advisory
 
 ### Project Description
 This project focuses on analyzing Airbnb property data to provide actionable insights for individuals planning to operate properties on Airbnb. Using the **Airbnb dataset** from Kaggle, the project leverages **SQL Server Management Studio** and **Power BI** for data processing and visualization.
