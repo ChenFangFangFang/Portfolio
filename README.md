@@ -19,7 +19,7 @@ The **Family Recipe Manager** is a backend application developed using **Spring 
 
 - **GitHub Link**: [Recipe Manager Backend](https://github.com/ChenFangFangFang/recipemanager)  
 - **Deployment**: [Live Application](https://recipemanager-fcvn.onrender.com/recipelist)  
-
+- **Video**: [YouTube](https://youtu.be/5liYGy9QdlA)
 ---
 
 ## Power BI Project  
