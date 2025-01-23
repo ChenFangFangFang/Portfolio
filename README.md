@@ -1,5 +1,5 @@
 
-# Welcome to My Portfolio
+# Welcome to Shiyang's Portfolio
 
 
 ## Frontend Project  
@@ -18,14 +18,21 @@ This project involves developing a **React-based frontend application** for a Pe
 The **Family Recipe Manager** is a backend application developed using **Spring Boot**, designed to simplify meal planning and recipe management for families. This application provides robust functionalities for organizing recipes, planning meals, and offering cooking inspiration.  
 
 - **GitHub Link**: [Recipe Manager Backend](https://github.com/ChenFangFangFang/recipemanager)  
-- **Deployment**: [Live Application](https://recipemanager-fcvn.onrender.com/recipelist)  
-- **Video**: [YouTube](https://youtu.be/5liYGy9QdlA)
+- **Demo Video**: [YouTube](https://youtu.be/5liYGy9QdlA)
 ---
 
 ## Power BI Project  
 **Name**: Airbnb Property Data Analysis  
+
 **Description**:  
 This project focuses on analyzing **Airbnb property data** to provide actionable insights for individuals planning to operate properties on Airbnb. Using the **Airbnb dataset** from Kaggle, the project leverages **SQL Server Management Studio** and **Power BI** for data processing and visualization.  
 
 - **GitHub Link**: [Airbnb Property Data Analysis](https://github.com/ChenFangFangFang/Portfolio/tree/main/Data_Analysis/Airbnb_property_Data_Analysis)  
-```**
+
+
+---
+
+## Author  
+**Name**: Shiyang Chen  
+**LinkedIn**:  [LinkedIn](www.linkedin.com/in/shiyangchen0430)
+
