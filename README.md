@@ -1,6 +1,15 @@
 
 # Welcome to Shiyang's Portfolio
 
+## Full Stack Project  
+**Name**: Business News Pro Application
+**Description**:  
+This project involves developing a **Next.js-based AI-powered news analysis platform** that integrates **OpenAI for intelligent summarization, NewsAPI for real-time updates, and Prisma with PostgreSQL for secure data management**, featuring **JWT authentication and a responsive design** for an optimized user experience.
+
+- **GitHub Link**: [Business News Pro Application](https://github.com/ChenFangFangFang/newsApp)  
+- **Demo Video**: [YouTube](https://youtu.be/yQ1RcKMmhhg)  
+
+---
 
 ## Frontend Project  
 **Name**: Personal Training Center  
